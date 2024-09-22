@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="jetbrains.kotlin.serialization" type="repository">
+    <properties maven-id="org.jetbrains.kotlin:kotlin-serialization:2.1.0-Beta1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-serialization-2.1.0-Beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-gradle-plugin-api-2.1.0-Beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-gradle-plugin-annotations-2.1.0-Beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-native-utils-2.1.0-Beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-util-io-2.1.0-Beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-tooling-core-2.1.0-Beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-serialization-2.1.0-Beta1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-gradle-plugin-api-2.1.0-Beta1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-gradle-plugin-annotations-2.1.0-Beta1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-native-utils-2.1.0-Beta1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-util-io-2.1.0-Beta1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-tooling-core-2.1.0-Beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-serialization-2.1.0-Beta1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-gradle-plugin-api-2.1.0-Beta1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-gradle-plugin-annotations-2.1.0-Beta1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-native-utils-2.1.0-Beta1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-util-io-2.1.0-Beta1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-tooling-core-2.1.0-Beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

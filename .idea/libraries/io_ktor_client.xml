@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="io.ktor.client" type="repository">
+    <properties maven-id="io.ktor:ktor-client:3.0.0-rc-1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ktor-client-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-core-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-core-jvm-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-client-core-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-http-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-utils-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-io-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-io-core-0.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-io-bytestring-0.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-core-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-core-jvm-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-2.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-events-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-websocket-serialization-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-serialization-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-websockets-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-sse-3.0.0-rc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-2.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-core-jvm-1.8.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-io-core-0.5.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-io-bytestring-0.5.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-core-jvm-1.7.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-2.0.20-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-2.0.20-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/ktor-client-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-core-1.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-core-jvm-1.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-client-core-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-http-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-utils-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-io-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-io-core-0.5.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-io-bytestring-0.5.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-core-1.7.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-core-jvm-1.7.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-2.0.20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-events-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-websocket-serialization-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-serialization-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-websockets-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ktor-sse-3.0.0-rc-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-2.0.20-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
